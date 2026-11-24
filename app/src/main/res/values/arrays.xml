@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="theme_options">
+        <item>Светлая</item>
+        <item>Тёмная</item>
+        <item>Контрастная</item>
+    </string-array>
+
+    <string-array name="text_size_options">
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+    </string-array>
+
+    <string-array name="accent_color_options">
+        <item>Синий</item>
+        <item>Зелёный</item>
+        <item>Оранжевый</item>
+    </string-array>
+</resources>
